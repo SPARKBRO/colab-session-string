@@ -1,4 +1,4 @@
-# SPARK colab-session-string
+# Spark-colab-session
 
 
 <a target="_blank" href="https://colab.research.google.com/github/SPARKBRO/colab-session-string/blob/main/pyro_sess.ipynb">
